@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 ruby '2.2.4'
 
+gem 'will_paginate', '~> 3.0.5'
+
 gem 'byebug'
 gem 'chartkick'
 gem 'groupdate'
